@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LoGin</string>
+    <string name="logo">Logo</string>
+
+    <string name="do_you_already_have_an_account">Do you already have an account?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign_up</string>
+    <string name="my_app_id">logggo-buztg</string>
+    <string name="save">Save</string>
+    <string name="go_to_prescription">Go to prescription</string>
+    <string name="examination">Examination</string>
+    <string name="write_here">Write here</string>
+    <string name="prescription">Prescription</string>
+    <string name="savee">Save</string>
+    <string name="go_to_examination">Go to examination</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Second Fragment</string>
+    <string name="you_don_t_have_an_account_yet">You don\'t have an account yet?</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="write_here0">write here</string>
+</resources>
