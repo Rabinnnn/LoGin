@@ -1,2 +1,2 @@
 # LoGin
-connected to mongodb for test purposes
+Test app for working with mongodb atlas and android.
